@@ -19,6 +19,9 @@ header {
     color: #ffffff;
     padding: 1rem;
     text-align: center;
+    position: sticky;
+    top: 0;
+    z-index: 1000; 
 }
 
 header h1 {
